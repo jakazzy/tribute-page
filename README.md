@@ -1,0 +1,1 @@
+This is a sample website created as a tribute page with HTML, SASS and GSAP.
